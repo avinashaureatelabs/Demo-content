@@ -11,5 +11,10 @@ Find More details on <a href="https://kiwicommerce.co.uk/extensions/magento2-cro
 
 ## Where will it appear in the Admin Panel
 
-- Go to System > Enhanced SMTP by KiwiCommerce > Email Logs. Here you can See the list of sent mail logs. 
+- Go to System > Enhanced SMTP by KiwiCommerce > Email Logs. Here you can See the list of sent mail logs.
+
 ![Email Log](https://kiwicommerce.co.uk/docs/img/enhanced_smtp/email_log.png)
+
+- By clicking **View** in each mail log, you can have a look at the mail through the eyes of your customers.
+
+![Email Popup](https://kiwicommerce.co.uk/docs/img/enhanced_smtp/email_popup.png)
