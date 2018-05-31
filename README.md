@@ -23,10 +23,12 @@ Find More details on <a href="https://kiwicommerce.co.uk/extensions/magento2-cro
 ## Configuration
 
 ### SMTP Configuration
+Go to System > Enhanced SMTP by KiwiCommerce > Configuration. Open General section
 
 ![SMTP Configuration](https://kiwicommerce.co.uk/docs/img/enhanced_smtp/smtp-configuration-section.png)
 
 ### Advanced Configuration
+This section is placed right under SMTP Configure Section.
 
 ![Advanced Configuration](https://kiwicommerce.co.uk/docs/img/enhanced_smtp/advanced-configuration-section.png)
 
