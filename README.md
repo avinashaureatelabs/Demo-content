@@ -7,7 +7,7 @@
 - This extension includes pre-configured settings for 25+ most popular SMTP providers.
 - This extension provides you with a feature to track all sent emails by inserting email log.
 
-Find More details on <a href="https://kiwicommerce.co.uk/extensions/magento2-enhanced-smtp/">Kiwi Commerce Ltd</a>
+Find More details on <a href="https://kiwicommerce.co.uk/extensions/magento2-enhanced-smtp/" target="_blank">Kiwi Commerce Ltd</a>
 
 ## Where will it appear in the Admin Panel
 
@@ -40,5 +40,5 @@ For more detail, please check the <a href="https://kiwicommerce.co.uk/docs/enhan
 
 Before doing issue reporting, please make sure you followed all <a href="https://kiwicommerce.co.uk/docs/issue_reporting_guidelines/" target="_blank">guidelines</a> properly.
 
-In case of further help, kindly create a <a href="https://github.com/kiwicommerce/magento2-inventory-log/issues" target="_blank">new issue here</a>.
+In case of further help, kindly create a <a href="https://github.com/kiwicommerce/magento2-enhanced-smtp/issues" target="_blank">new issue here</a>.
 
