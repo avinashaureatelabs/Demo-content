@@ -7,6 +7,8 @@
 - This extension includes pre-configured settings for 25+ most popular SMTP providers.
 - This extension provides you with a feature to track all sent emails by inserting email log.
 
+Find More details on <a href="https://kiwicommerce.co.uk/extensions/magento2-enhanced-smtp/">Kiwi Commerce Ltd</a>
+
 ## Where will it appear in the Admin Panel
 
 - Go to System > Enhanced SMTP by KiwiCommerce > Email Logs. Here you can See the list of sent mail logs.
