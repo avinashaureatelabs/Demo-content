@@ -36,7 +36,7 @@
 	- OVH
 	- Custom SMTP
 
-	- This extension provides you with a feature to track all sent emails by inserting email log.
+- This extension provides you with a feature to track all sent emails by inserting email log.
 
 
 Find More details on <a href="https://kiwicommerce.co.uk/extensions/magento2-cron-scheduler/">Kiwi Commerce Ltd</a>
