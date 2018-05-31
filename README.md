@@ -18,3 +18,25 @@ Find More details on <a href="https://kiwicommerce.co.uk/extensions/magento2-cro
 - By clicking **View** in each mail log, you can have a look at the mail through the eyes of your customers.
 
 ![Email Popup](https://kiwicommerce.co.uk/docs/img/enhanced_smtp/email_popup.png)
+
+
+## Configuration
+
+### SMTP Configuration
+
+![SMTP Configuration](https://kiwicommerce.co.uk/docs/img/enhanced_smtp/smtp-configuration-section.png)
+
+### Advanced Configuration
+
+![Advanced Configuration](https://kiwicommerce.co.uk/docs/img/enhanced_smtp/advanced-configuration-section.png)
+
+## Documentation
+
+For more detail, please check the <a href="https://kiwicommerce.co.uk/docs/enhanced_smtp/" target="_blank">Documentaion</a>.
+
+## Issue Reporting.
+
+Before doing issue reporting, please make sure you followed all <a href="https://kiwicommerce.co.uk/docs/issue_reporting_guidelines/" target="_blank">guidelines</a> properly.
+
+In case of further help, kindly create a <a href="https://github.com/kiwicommerce/magento2-inventory-log/issues" target="_blank">new issue here</a>.
+
