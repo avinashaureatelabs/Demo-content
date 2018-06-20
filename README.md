@@ -41,3 +41,4 @@ For more detail, please check the <a href="https://kiwicommerce.co.uk/docs/enhan
 Before doing issue reporting, please make sure you followed all <a href="https://kiwicommerce.co.uk/docs/issue_reporting_guidelines/" target="_blank">guidelines</a> properly.
 
 In case of further help, kindly create a <a href="https://github.com/kiwicommerce/magento2-enhanced-smtp/issues" target="_blank">new issue here</a>.
+Hello World
